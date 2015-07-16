@@ -24,4 +24,4 @@ Run the kernout.py script with Python2. Requires [Pygments](http://pygments.org/
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ##Credits
-Special thansk to the [Pygments](http://pygments.org/) team for their excellent syntax highlighting tools.
+Special thanks to the [Pygments](http://pygments.org/) team for their excellent syntax highlighting tools.
