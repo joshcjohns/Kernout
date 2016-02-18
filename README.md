@@ -4,7 +4,7 @@
 Kernout is a novelty script written in Python designed to print a random Linux kernel 1.0 source file with user configurable timing between lines printed and number of times the file is printed to the screen. It can also print a random Linux kernel 0.01 source file or any other C language file with the same options. All source is printed with full syntax highlighting by default.
 
 ##Usage
-Run the kernout.py script with Python2. Requires [Pygments](http://pygments.org/) library.
+Run the kernout.py script with Python3. Requires [Pygments](http://pygments.org/) library. Install pygments with "pip install pygments".
 
 ##License
     Kernout
