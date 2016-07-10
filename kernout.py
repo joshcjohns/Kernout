@@ -115,4 +115,5 @@ def print_code():
                     i += 1
         
 
-print_code()
+if __name__=='__main__':
+    print_code()
